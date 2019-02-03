@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="btn_name">Button</string>
+
+    <string name="toolbar">Toolbar</string>
+    <string name="content_description">image</string>
+    <string name="francis">Francis</string>
+</resources>
